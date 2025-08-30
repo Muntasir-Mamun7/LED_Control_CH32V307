@@ -25,6 +25,3 @@ This project fulfills Task 2 requirements by controlling an onboard LED through 
 
 ## Testing Instructions
 Refer to the User Manual in the docs folder for detailed testing instructions.
-
-## Author
-Muntasir Mamun
